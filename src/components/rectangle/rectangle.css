@@ -1,0 +1,6 @@
+div.rectangle {
+  background-image: url("/src/assets/images/Rectangle.png");
+  background-position: -600px -700px !important;
+  background-size: cover !important;
+  background-repeat: no-repeat !important;
+}
